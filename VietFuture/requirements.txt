@@ -1,0 +1,10 @@
+flask
+flask-cors
+gevent
+dlib
+numpy
+opencv-python
+ultralytics
+pymongo
+hnswlib
+gTTS
